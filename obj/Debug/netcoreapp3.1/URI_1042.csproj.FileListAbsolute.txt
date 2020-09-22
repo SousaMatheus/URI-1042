@@ -1,0 +1,13 @@
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\bin\Debug\netcoreapp3.1\URI_1042.exe
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\bin\Debug\netcoreapp3.1\URI_1042.deps.json
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\bin\Debug\netcoreapp3.1\URI_1042.runtimeconfig.json
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\bin\Debug\netcoreapp3.1\URI_1042.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\bin\Debug\netcoreapp3.1\URI_1042.dll
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\bin\Debug\netcoreapp3.1\URI_1042.pdb
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\obj\Debug\netcoreapp3.1\URI_1042.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\obj\Debug\netcoreapp3.1\URI_1042.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\obj\Debug\netcoreapp3.1\URI_1042.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\obj\Debug\netcoreapp3.1\URI_1042.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\obj\Debug\netcoreapp3.1\URI_1042.dll
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\obj\Debug\netcoreapp3.1\URI_1042.pdb
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1042\obj\Debug\netcoreapp3.1\URI_1042.genruntimeconfig.cache
