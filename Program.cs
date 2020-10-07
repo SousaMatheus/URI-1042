@@ -23,14 +23,14 @@ namespace URI_1042
                     pos3 = valor2;
                 }
             }
-            else if (valor2 < valor1 && valor2 < valor3){
+            else if (valor2 < valor3 ){
                 pos1 = valor2;
                 if (valor1 < valor3){
                     pos2 = valor1;
                     pos3 = valor3;
                 } else {
                     pos2 = valor3;
-                    pos3 = valor2;
+                    pos3 = valor1;
                 }
             }
             else {
